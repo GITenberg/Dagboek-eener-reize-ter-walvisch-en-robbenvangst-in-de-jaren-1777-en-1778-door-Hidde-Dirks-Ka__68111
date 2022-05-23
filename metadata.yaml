@@ -1,0 +1,25 @@
+_repo: Dagboek-eener-reize-ter-walvisch-en-robbenvangst-in-de-jaren-1777-en-1778-door-Hidde-Dirks-Ka__68111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kat, Hidde
+    gutenberg_agent_id: '54607'
+    url: http://www.gutenberg.org/2009/agents/54607
+description: ''
+gutenberg_issued: '2022-05-17'
+identifiers:
+  gutenberg: '68111'
+language: nl
+pgterms:marc904: https://books.google.nl/books?id=9exdAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=true
+pgterms:marc905: 20220514090635kat
+pgterms:marc906: '1818'
+pgterms:marc907: NL
+publication_note: Netherlands :DE WED. A. LOOSJES Pz.,1818.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Dagboek eener reize ter walvisch- en robbenvangst, in de jaren 1777 en 1778
+  door Hidde Dirks Kat
+url: http://www.gutenberg.org/ebooks/68111
